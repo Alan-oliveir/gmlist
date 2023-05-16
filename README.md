@@ -1,6 +1,6 @@
 # Projeto GMList - Intensivão Java Spring
-> - Projeto feito durante o Intensivão Java Spring promovido pela DevSperior.
-> - Desenvolvimento web com Rest API e banco de dados usando Java e Spring Boot.
+- Projeto feito durante o Intensivão Java Spring promovido pela DevSperior.
+- Desenvolvimento web com Rest API e banco de dados usando Java e Spring Boot.
 
 ## Tecnologias aprendidas
 - Java
@@ -23,17 +23,16 @@ O objetivo é construir um pequeno sistema (API REST) para registrar games. O pr
 - Mostrar todos os games de uma categoria
 - Reordenar os games 
 
-## Modelo do conceitual
-![Image](https://github.com/Alan-oliveir/userdept/blob/main/images/dominio.png)
+## Modelo de domínio
+![Image](https://github.com/Alan-oliveir/gmlist/blob/main/img/gmlist-model.png)
 
-## Mapeamento objeto-relacional
-![Image](https://github.com/Alan-oliveir/userdept/blob/main/images/objetos.png)
+## Imagens do Postman e banco H2
+![Image](https://github.com/Alan-oliveir/gmlist/blob/main/img/gmlist-list.png)
 
-
+![Image](https://github.com/Alan-oliveir/gmlist/blob/main/img/gmlist-h2.png)
 
 ## Agradecimentos e Créditos
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
 
 # Autor
-Alan de Oliveira Gonçalves - Linkedin: www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258
- 
+Alan de Oliveira Gonçalves - Linkedin: www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258 
