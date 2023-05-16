@@ -31,7 +31,7 @@ O objetivo é construir um pequeno sistema (API REST) para registrar games. O pr
 ![Image](https://github.com/Alan-oliveir/gmlist/blob/main/img/gmlist-h2.png)
 ___
 
-### Agradecimentos e Créditos
+## Agradecimentos e Créditos
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
 
 **Link do projeto original:** [DevSuperior - dslist-backend](https://github.com/devsuperior/dslist-backend/tree/main)
