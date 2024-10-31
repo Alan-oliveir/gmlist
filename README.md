@@ -35,7 +35,3 @@ ___
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
 
 **Link do projeto original:** [DevSuperior - dslist-backend](https://github.com/devsuperior/dslist-backend/tree/main)
-___
-
-# Autor
-Alan de Oliveira Gonçalves - Linkedin: www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258 
